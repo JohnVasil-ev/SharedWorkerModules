@@ -1,0 +1,13 @@
+{
+  "name": "shared-worker-modules",
+  "version": "1.0.0",
+  "description": "Shared worker module system for messaging between clients",
+  "author": "Ivan Vasiliev <va3iliev.ip@gmail.com>",
+  "keywords": [
+    "Shared worker",
+    "Module"
+  ],
+  "license": "Apache-2.0",
+  "private": "true",
+  "scripts": {}
+}
